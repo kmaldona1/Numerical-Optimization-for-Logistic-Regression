@@ -11,4 +11,4 @@ Gradient-based optimization algorithms are essential for training machine learni
 - Mini-Batch Stochastic Gradient Descent (MB-SGD) with batch size 64
 
 ## Files
-Please refer to Programming1.html for main script containing the output of each cell and generated plot. The file also includes plain-english comparison between the four (4) algorithms. 
+Please refer to Programming1.html for main script containing the output of each cell and corresponding generated plots. The file also includes plain-english comparison between the four (4) algorithms. 
